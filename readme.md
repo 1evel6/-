@@ -18,3 +18,5 @@
 示——不仅能根据显示设备的尺寸自动调整大小，还具备众多交互特性，如在用户将鼠标
 指向图形的不同区域时，突出显示数据集的相应特征。学习使用 Matplotlib 和 Plotly，有助
 于你初步掌握数据可视化技巧。ciallo~~
+![屏幕截图 2024-11-29 111445](https://github.com/user-attachments/assets/186a7bfa-fa40-4d5e-9584-a1dd8126d703)
+![Uploading c29874e2c5557c843b15a567aa97dc7e.png…]()
